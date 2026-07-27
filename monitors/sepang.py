@@ -5,9 +5,8 @@ F1_KEYWORDS = [
     "formula 1",
     "formula one",
     "f1",
-    "grand prix",
-    "petronas grand prix",
-    "malaysian grand prix"
+    "formula",
+    "formula1"
 ]
 
 
