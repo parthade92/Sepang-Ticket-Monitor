@@ -1,5 +1,6 @@
 import json
 import os
+import re
 import requests
 from bs4 import BeautifulSoup
 
@@ -8,47 +9,27 @@ URL = "https://www.sepangcircuit.com/ticketing"
 BOT_TOKEN = os.environ["BOT_TOKEN"]
 CHAT_ID = os.environ["CHAT_ID"]
 
-KEYWORDS = [
-    "formula 1",
-    "formula one",
-    "f1",
-    "bahrain grand prix",
-    "grand prix"
-]
-
 STATE_FILE = "state.json"
 
 
-def send(message):
+def send_telegram(message):
     requests.post(
         f"https://api.telegram.org/bot{BOT_TOKEN}/sendMessage",
-        json={
+        data={
             "chat_id": CHAT_ID,
             "text": message,
             "disable_web_page_preview": False,
         },
-        timeout=20,
+        timeout=30,
     )
-
-
-def load_state():
-    if not os.path.exists(STATE_FILE):
-        return {"already_notified": False}
-
-    with open(STATE_FILE) as f:
-        return json.load(f)
-
-
-def save_state(state):
-    with open(STATE_FILE, "w") as f:
-        json.dump(state, f, indent=2)
 
 
 def fetch_page():
     headers = {
         "User-Agent": (
-            "Mozilla/5.0 "
-            "(Windows NT 10.0; Win64; x64)"
+            "Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
+            "AppleWebKit/537.36 Chrome/138 Safari/537.36"
+           #"AppleWebKit/537.36 Chrome/138 Safari/537.36"
         )
     }
 
@@ -57,39 +38,93 @@ def fetch_page():
     return r.text
 
 
-def check():
-    html = fetch_page()
+def extract_titles(html):
+    soup = BeautifulSoup(html, "lxml")
 
-    soup = BeautifulSoup(html, "html.parser")
+    titles = set()
 
-    text = soup.get_text(" ", strip=True).lower()
+    # Find headings
+    for tag in soup.find_all(["h1", "h2", "h3", "h4", "strong"]):
+        text = tag.get_text(" ", strip=True)
 
-    for keyword in KEYWORDS:
-        if keyword in text:
-            return keyword
+        if len(text) < 4:
+            continue
 
-    return None
+        titles.add(text)
+
+    # Find image alt text
+    for img in soup.find_all("img"):
+        alt = img.get("alt", "").strip()
+        if len(alt) > 4:
+            titles.add(alt)
+
+    # Clean
+    cleaned = []
+
+    for t in titles:
+        t = re.sub(r"\s+", " ", t).strip()
+
+        if len(t) > 4:
+            cleaned.append(t)
+
+    return sorted(cleaned)
+
+
+def load_state():
+    if not os.path.exists(STATE_FILE):
+        return []
+
+    with open(STATE_FILE, "r") as f:
+        return json.load(f)
+
+
+def save_state(data):
+    with open(STATE_FILE, "w") as f:
+        json.dump(data, f, indent=2)
+
+
+def looks_like_f1(title):
+    title = title.lower()
+
+    keywords = [
+        "formula 1",
+        "formula one",
+        "f1",
+        "petronas",
+        "malaysian grand prix",
+        "malaysia grand prix",
+    ]
+
+    return any(k in title for k in keywords)
 
 
 def main():
-    state = load_state()
+    html = fetch_page()
 
-    keyword = check()
+    current = extract_titles(html)
 
-    if keyword:
-        if not state["already_notified"]:
-            send(
-                "🏁 Formula 1 tickets may be LIVE!\n\n"
-                f"Matched keyword: {keyword}\n\n"
-                f"{URL}"
-            )
+    previous = load_state()
 
-            state["already_notified"] = True
-            save_state(state)
+    new_titles = [x for x in current if x not in previous]
+
+    print("Current titles:")
+    for t in current:
+        print("-", t)
+
+    if new_titles:
+        print("\nNew titles found:")
+        for t in new_titles:
+            print("-", t)
+
+            if looks_like_f1(t):
+                send_telegram(
+                    f"🏁 Formula 1 ticket listing detected!\n\n{t}\n\n{URL}"
+                )
 
     else:
-        state["already_notified"] = False
-        save_state(state)
+        print("No new titles.")
+
+    save_state(current)
 
 
 if __name__ == "__main__":
