@@ -60,7 +60,7 @@ def fetch_page():
 def check():
     html = fetch_page()
 
-    soup = BeautifulSoup(html, "lxml")
+    soup = BeautifulSoup(html, "html.parser")
 
     text = soup.get_text(" ", strip=True).lower()
 
