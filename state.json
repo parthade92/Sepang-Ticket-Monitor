@@ -1,1 +1,740 @@
-{}
+{
+  "sepang": [
+    {
+      "title": "Ticketing The store will not work correctly when cookies are disabled. JavaScript seems to be disabled in your browser. For the best experience on our site, be sure to turn on Javascript in your browser. Close Account Wish List Sign In Create an Acco",
+      "button": true
+    },
+    {
+      "title": "var LOCALE = 'en\\u002DUS';\n    var BASE_URL = 'https\\u003A\\u002F\\u002Fwww.sepangcircuit.com\\u002F';\n    var require = {\n        'baseUrl': 'https\\u003A\\u002F\\u002Fwww.sepangcircuit.com\\u002Fstatic\\u002Fversion1777366440\\u002Ffrontend\\u002FMageplus\\u0",
+      "button": false
+    },
+    {
+      "title": "The store will not work correctly when cookies are disabled. JavaScript seems to be disabled in your browser. For the best experience on our site, be sure to turn on Javascript in your browser. Close Account Wish List Sign In Create an Account Compar",
+      "button": true
+    },
+    {
+      "title": "{\n        \"*\": {\n            \"mage/cookies\": {\n                \"expires\": null,\n                \"path\": \"\\u002F\",\n                \"domain\": \".www.sepangcircuit.com\",\n                \"secure\": true,\n                \"lifetime\": \"3600\"\n            }\n   ",
+      "button": false
+    },
+    {
+      "title": "require.config({\n        paths: {\n            googleMaps: 'https\\u003A\\u002F\\u002Fmaps.googleapis.com\\u002Fmaps\\u002Fapi\\u002Fjs\\u003Fv\\u003D3.53\\u0026key\\u003D'\n        },\n        config: {\n            'Magento_PageBuilder/js/utils/map': {\n         ",
+      "button": false
+    },
+    {
+      "title": "Close Account Wish List Sign In Create an Account Compare Products Close About Our Story Architecture SIC's Vision SICARES Career With Us Board of Directors & Management Events EVENTS @ SIC PETRONAS GRAND PRIX OF MALAYSIA 2026 MALAYSIA TOURING CAR CH",
+      "button": true
+    },
+    {
+      "title": "Close Account Wish List Sign In Create an Account Compare Products Close About Our Story Architecture SIC's Vision SICARES Career With Us Board of Directors & Management Events EVENTS @ SIC PETRONAS GRAND PRIX OF MALAYSIA 2026 MALAYSIA TOURING CAR CH",
+      "button": false
+    },
+    {
+      "title": "Close About Our Story Architecture SIC's Vision SICARES Career With Us Board of Directors & Management Events EVENTS @ SIC PETRONAS GRAND PRIX OF MALAYSIA 2026 MALAYSIA TOURING CAR CHAMPIONSHIP 2026 (MTCC) FIM MINIGP MALAYSIA SERIES & SIC OHVALE JUNI",
+      "button": false
+    },
+    {
+      "title": "About Our Story Architecture SIC's Vision SICARES Career With Us Board of Directors & Management Events EVENTS @ SIC PETRONAS GRAND PRIX OF MALAYSIA 2026 MALAYSIA TOURING CAR CHAMPIONSHIP 2026 (MTCC) FIM MINIGP MALAYSIA SERIES & SIC OHVALE JUNIOR CHA",
+      "button": false
+    },
+    {
+      "title": "About Our Story Architecture SIC's Vision SICARES Career With Us Board of Directors & Management Events EVENTS @ SIC PETRONAS GRAND PRIX OF MALAYSIA 2026 MALAYSIA TOURING CAR CHAMPIONSHIP 2026 (MTCC) FIM MINIGP MALAYSIA SERIES & SIC OHVALE JUNIOR CHA",
+      "button": false
+    },
+    {
+      "title": "Events EVENTS @ SIC PETRONAS GRAND PRIX OF MALAYSIA 2026 MALAYSIA TOURING CAR CHAMPIONSHIP 2026 (MTCC) FIM MINIGP MALAYSIA SERIES & SIC OHVALE JUNIOR CHAMPIONSHIP AEON CREDIT MALAYSIA SUPERBIKE CHAMPIONSHIP CYCLING OPEN TRACK DAY SEPANG 1000KM ENDURA",
+      "button": false
+    },
+    {
+      "title": "EVENTS @ SIC PETRONAS GRAND PRIX OF MALAYSIA 2026 MALAYSIA TOURING CAR CHAMPIONSHIP 2026 (MTCC) FIM MINIGP MALAYSIA SERIES & SIC OHVALE JUNIOR CHAMPIONSHIP AEON CREDIT MALAYSIA SUPERBIKE CHAMPIONSHIP CYCLING OPEN TRACK DAY SEPANG 1000KM ENDURANCE RAC",
+      "button": false
+    },
+    {
+      "title": "EVENTS @ SIC PETRONAS GRAND PRIX OF MALAYSIA 2026 MALAYSIA TOURING CAR CHAMPIONSHIP 2026 (MTCC) FIM MINIGP MALAYSIA SERIES & SIC OHVALE JUNIOR CHAMPIONSHIP AEON CREDIT MALAYSIA SUPERBIKE CHAMPIONSHIP CYCLING OPEN TRACK DAY SEPANG 1000KM ENDURANCE RAC",
+      "button": false
+    },
+    {
+      "title": "EVENTS @ SIC PETRONAS GRAND PRIX OF MALAYSIA 2026 MALAYSIA TOURING CAR CHAMPIONSHIP 2026 (MTCC) FIM MINIGP MALAYSIA SERIES & SIC OHVALE JUNIOR CHAMPIONSHIP AEON CREDIT MALAYSIA SUPERBIKE CHAMPIONSHIP CYCLING OPEN TRACK DAY SEPANG 1000KM ENDURANCE RAC",
+      "button": false
+    },
+    {
+      "title": "EVENTS @ SIC PETRONAS GRAND PRIX OF MALAYSIA 2026 MALAYSIA TOURING CAR CHAMPIONSHIP 2026 (MTCC) FIM MINIGP MALAYSIA SERIES & SIC OHVALE JUNIOR CHAMPIONSHIP AEON CREDIT MALAYSIA SUPERBIKE CHAMPIONSHIP CYCLING OPEN TRACK DAY SEPANG 1000KM ENDURANCE RAC",
+      "button": false
+    },
+    {
+      "title": "PETRONAS GRAND PRIX OF MALAYSIA 2026 MALAYSIA TOURING CAR CHAMPIONSHIP 2026 (MTCC) FIM MINIGP MALAYSIA SERIES & SIC OHVALE JUNIOR CHAMPIONSHIP AEON CREDIT MALAYSIA SUPERBIKE CHAMPIONSHIP CYCLING OPEN TRACK DAY SEPANG 1000KM ENDURANCE RACE 2025",
+      "button": false
+    },
+    {
+      "title": "PETRONAS GRAND PRIX OF MALAYSIA 2026 MALAYSIA TOURING CAR CHAMPIONSHIP 2026 (MTCC) FIM MINIGP MALAYSIA SERIES & SIC OHVALE JUNIOR CHAMPIONSHIP AEON CREDIT MALAYSIA SUPERBIKE CHAMPIONSHIP CYCLING OPEN TRACK DAY SEPANG 1000KM ENDURANCE RACE 2025",
+      "button": false
+    },
+    {
+      "title": "PETRONAS GRAND PRIX OF MALAYSIA 2026 MALAYSIA TOURING CAR CHAMPIONSHIP 2026 (MTCC) FIM MINIGP MALAYSIA SERIES & SIC OHVALE JUNIOR CHAMPIONSHIP AEON CREDIT MALAYSIA SUPERBIKE CHAMPIONSHIP CYCLING OPEN TRACK DAY SEPANG 1000KM ENDURANCE RACE 2025",
+      "button": false
+    },
+    {
+      "title": "PETRONAS GRAND PRIX OF MALAYSIA 2026",
+      "button": false
+    },
+    {
+      "title": "PETRONAS GRAND PRIX OF MALAYSIA 2026",
+      "button": false
+    },
+    {
+      "title": "PETRONAS GRAND PRIX OF MALAYSIA 2026",
+      "button": false
+    },
+    {
+      "title": "PETRONAS GRAND PRIX OF MALAYSIA 2026",
+      "button": false
+    },
+    {
+      "title": "PETRONAS GRAND PRIX OF MALAYSIA 2026",
+      "button": false
+    },
+    {
+      "title": "SEPANG 1000KM ENDURANCE RACE 2025",
+      "button": false
+    },
+    {
+      "title": "SEPANG 1000KM ENDURANCE RACE 2025",
+      "button": false
+    },
+    {
+      "title": "SEPANG 1000KM ENDURANCE RACE 2025",
+      "button": false
+    },
+    {
+      "title": "SEPANG 1000KM ENDURANCE RACE 2025",
+      "button": false
+    },
+    {
+      "title": "SEPANG 1000KM ENDURANCE RACE 2025",
+      "button": false
+    },
+    {
+      "title": "Explore Overview Facilities Track Rental Container Hub Safety Measures Facilities Welcome Center Perdana Suite Paddock Chalet Paddock Club Support Paddock (North) Support Paddock (South) Corporate Suites Roof Top Helipad Media Centre Mall Area Racing",
+      "button": false
+    },
+    {
+      "title": "Overview Facilities Track Rental Container Hub Safety Measures Facilities Welcome Center Perdana Suite Paddock Chalet Paddock Club Support Paddock (North) Support Paddock (South) Corporate Suites Roof Top Helipad Media Centre Mall Area Racing Circuit",
+      "button": false
+    },
+    {
+      "title": "Overview Facilities Track Rental Container Hub Safety Measures Facilities Welcome Center Perdana Suite Paddock Chalet Paddock Club Support Paddock (North) Support Paddock (South) Corporate Suites Roof Top Helipad Media Centre Mall Area Racing Circuit",
+      "button": false
+    },
+    {
+      "title": "Racing Circuits Driving Experience Centre Driving Experience Centre SIC Motorsport Park Sepang International Kart Circuit",
+      "button": false
+    },
+    {
+      "title": "Racing Circuits Driving Experience Centre Driving Experience Centre SIC Motorsport Park Sepang International Kart Circuit",
+      "button": false
+    },
+    {
+      "title": "Racing Circuits Driving Experience Centre Driving Experience Centre SIC Motorsport Park Sepang International Kart Circuit",
+      "button": false
+    },
+    {
+      "title": "Racing Circuits Driving Experience Centre Driving Experience Centre SIC Motorsport Park Sepang International Kart Circuit",
+      "button": false
+    },
+    {
+      "title": ".background-image-6a671004541e1 {background-image: url(https://www.sepangcircuit.com/media/wysiwyg/explore-menu-img1.jpg);}",
+      "button": false
+    },
+    {
+      "title": ".background-image-6a6710045463b {background-image: url(https://www.sepangcircuit.com/media/wysiwyg/explore-menu-img1.jpg);}",
+      "button": false
+    },
+    {
+      "title": ".background-image-6a671004541f0 {background-image: url(https://www.sepangcircuit.com/media/wysiwyg/explore-menu-img2.jpg);}",
+      "button": false
+    },
+    {
+      "title": ".background-image-6a67100454652 {background-image: url(https://www.sepangcircuit.com/media/wysiwyg/explore-menu-img2.jpg);}",
+      "button": false
+    },
+    {
+      "title": ".background-image-6a671004541f5 {background-image: url(https://www.sepangcircuit.com/media/.renditions/wysiwyg/DEC-size_v2.jpg);}",
+      "button": false
+    },
+    {
+      "title": ".background-image-6a67100454658 {background-image: url(https://www.sepangcircuit.com/media/.renditions/wysiwyg/DEC-size_v2.jpg);}",
+      "button": false
+    },
+    {
+      "title": "SIC Motorsport Park Sepang International Kart Circuit",
+      "button": false
+    },
+    {
+      "title": "SIC Motorsport Park Sepang International Kart Circuit",
+      "button": false
+    },
+    {
+      "title": ".background-image-6a671004541fb {background-image: url(https://www.sepangcircuit.com/media/wysiwyg/explore-menu-img3.jpg);}",
+      "button": false
+    },
+    {
+      "title": ".background-image-6a6710045465e {background-image: url(https://www.sepangcircuit.com/media/wysiwyg/explore-menu-img3.jpg);}",
+      "button": false
+    },
+    {
+      "title": "Sepang International Kart Circuit",
+      "button": false
+    },
+    {
+      "title": "Sepang International Kart Circuit",
+      "button": false
+    },
+    {
+      "title": "Sepang International Kart Circuit",
+      "button": false
+    },
+    {
+      "title": "Sepang International Kart Circuit",
+      "button": false
+    },
+    {
+      "title": "Sepang International Kart Circuit",
+      "button": false
+    },
+    {
+      "title": "Sepang International Kart Circuit",
+      "button": false
+    },
+    {
+      "title": "Sepang International Kart Circuit",
+      "button": false
+    },
+    {
+      "title": "Sepang International Kart Circuit",
+      "button": false
+    },
+    {
+      "title": ".background-image-6a671004541ff {background-image: url(https://www.sepangcircuit.com/media/wysiwyg/explore-menu-img4.jpg);}",
+      "button": false
+    },
+    {
+      "title": ".background-image-6a67100454662 {background-image: url(https://www.sepangcircuit.com/media/wysiwyg/explore-menu-img4.jpg);}",
+      "button": false
+    },
+    {
+      "title": "Search Menu About Our Story Architecture SIC's Vision SICARES Career With Us Board of Directors & Management Events EVENTS @ SIC PETRONAS GRAND PRIX OF MALAYSIA 2026 MALAYSIA TOURING CAR CHAMPIONSHIP 2026 (MTCC) FIM MINIGP MALAYSIA SERIES & SIC OHVAL",
+      "button": true
+    },
+    {
+      "title": "About Our Story Architecture SIC's Vision SICARES Career With Us Board of Directors & Management Events EVENTS @ SIC PETRONAS GRAND PRIX OF MALAYSIA 2026 MALAYSIA TOURING CAR CHAMPIONSHIP 2026 (MTCC) FIM MINIGP MALAYSIA SERIES & SIC OHVALE JUNIOR CHA",
+      "button": true
+    },
+    {
+      "title": "About Our Story Architecture SIC's Vision SICARES Career With Us Board of Directors & Management Events EVENTS @ SIC PETRONAS GRAND PRIX OF MALAYSIA 2026 MALAYSIA TOURING CAR CHAMPIONSHIP 2026 (MTCC) FIM MINIGP MALAYSIA SERIES & SIC OHVALE JUNIOR CHA",
+      "button": false
+    },
+    {
+      "title": "About Our Story Architecture SIC's Vision SICARES Career With Us Board of Directors & Management Events EVENTS @ SIC PETRONAS GRAND PRIX OF MALAYSIA 2026 MALAYSIA TOURING CAR CHAMPIONSHIP 2026 (MTCC) FIM MINIGP MALAYSIA SERIES & SIC OHVALE JUNIOR CHA",
+      "button": false
+    },
+    {
+      "title": "About Our Story Architecture SIC's Vision SICARES Career With Us Board of Directors & Management Events EVENTS @ SIC PETRONAS GRAND PRIX OF MALAYSIA 2026 MALAYSIA TOURING CAR CHAMPIONSHIP 2026 (MTCC) FIM MINIGP MALAYSIA SERIES & SIC OHVALE JUNIOR CHA",
+      "button": false
+    },
+    {
+      "title": "About Our Story Architecture SIC's Vision SICARES Career With Us Board of Directors & Management Events EVENTS @ SIC PETRONAS GRAND PRIX OF MALAYSIA 2026 MALAYSIA TOURING CAR CHAMPIONSHIP 2026 (MTCC) FIM MINIGP MALAYSIA SERIES & SIC OHVALE JUNIOR CHA",
+      "button": false
+    },
+    {
+      "title": "About Our Story Architecture SIC's Vision SICARES Career With Us Board of Directors & Management Events EVENTS @ SIC PETRONAS GRAND PRIX OF MALAYSIA 2026 MALAYSIA TOURING CAR CHAMPIONSHIP 2026 (MTCC) FIM MINIGP MALAYSIA SERIES & SIC OHVALE JUNIOR CHA",
+      "button": false
+    },
+    {
+      "title": "About Our Story Architecture SIC's Vision SICARES Career With Us Board of Directors & Management Events EVENTS @ SIC PETRONAS GRAND PRIX OF MALAYSIA 2026 MALAYSIA TOURING CAR CHAMPIONSHIP 2026 (MTCC) FIM MINIGP MALAYSIA SERIES & SIC OHVALE JUNIOR CHA",
+      "button": false
+    },
+    {
+      "title": "About Our Story Architecture SIC's Vision SICARES Career With Us Board of Directors & Management Events EVENTS @ SIC PETRONAS GRAND PRIX OF MALAYSIA 2026 MALAYSIA TOURING CAR CHAMPIONSHIP 2026 (MTCC) FIM MINIGP MALAYSIA SERIES & SIC OHVALE JUNIOR CHA",
+      "button": false
+    },
+    {
+      "title": "About Our Story Architecture SIC's Vision SICARES Career With Us Board of Directors & Management Events EVENTS @ SIC PETRONAS GRAND PRIX OF MALAYSIA 2026 MALAYSIA TOURING CAR CHAMPIONSHIP 2026 (MTCC) FIM MINIGP MALAYSIA SERIES & SIC OHVALE JUNIOR CHA",
+      "button": false
+    },
+    {
+      "title": "About Our Story Architecture SIC's Vision SICARES Career With Us Board of Directors & Management Events EVENTS @ SIC PETRONAS GRAND PRIX OF MALAYSIA 2026 MALAYSIA TOURING CAR CHAMPIONSHIP 2026 (MTCC) FIM MINIGP MALAYSIA SERIES & SIC OHVALE JUNIOR CHA",
+      "button": false
+    },
+    {
+      "title": "About Our Story Architecture SIC's Vision SICARES Career With Us Board of Directors & Management Events EVENTS @ SIC PETRONAS GRAND PRIX OF MALAYSIA 2026 MALAYSIA TOURING CAR CHAMPIONSHIP 2026 (MTCC) FIM MINIGP MALAYSIA SERIES & SIC OHVALE JUNIOR CHA",
+      "button": false
+    },
+    {
+      "title": "About Our Story Architecture SIC's Vision SICARES Career With Us Board of Directors & Management Events EVENTS @ SIC PETRONAS GRAND PRIX OF MALAYSIA 2026 MALAYSIA TOURING CAR CHAMPIONSHIP 2026 (MTCC) FIM MINIGP MALAYSIA SERIES & SIC OHVALE JUNIOR CHA",
+      "button": false
+    },
+    {
+      "title": "About Our Story Architecture SIC's Vision SICARES Career With Us Board of Directors & Management Events EVENTS @ SIC PETRONAS GRAND PRIX OF MALAYSIA 2026 MALAYSIA TOURING CAR CHAMPIONSHIP 2026 (MTCC) FIM MINIGP MALAYSIA SERIES & SIC OHVALE JUNIOR CHA",
+      "button": false
+    },
+    {
+      "title": "About Our Story Architecture SIC's Vision SICARES Career With Us Board of Directors & Management Events EVENTS @ SIC PETRONAS GRAND PRIX OF MALAYSIA 2026 MALAYSIA TOURING CAR CHAMPIONSHIP 2026 (MTCC) FIM MINIGP MALAYSIA SERIES & SIC OHVALE JUNIOR CHA",
+      "button": false
+    },
+    {
+      "title": "About Our Story Architecture SIC's Vision SICARES Career With Us Board of Directors & Management Events EVENTS @ SIC PETRONAS GRAND PRIX OF MALAYSIA 2026 MALAYSIA TOURING CAR CHAMPIONSHIP 2026 (MTCC) FIM MINIGP MALAYSIA SERIES & SIC OHVALE JUNIOR CHA",
+      "button": false
+    },
+    {
+      "title": "Events EVENTS @ SIC PETRONAS GRAND PRIX OF MALAYSIA 2026 MALAYSIA TOURING CAR CHAMPIONSHIP 2026 (MTCC) FIM MINIGP MALAYSIA SERIES & SIC OHVALE JUNIOR CHAMPIONSHIP AEON CREDIT MALAYSIA SUPERBIKE CHAMPIONSHIP CYCLING OPEN TRACK DAY SEPANG 1000KM ENDURA",
+      "button": false
+    },
+    {
+      "title": "EVENTS @ SIC PETRONAS GRAND PRIX OF MALAYSIA 2026 MALAYSIA TOURING CAR CHAMPIONSHIP 2026 (MTCC) FIM MINIGP MALAYSIA SERIES & SIC OHVALE JUNIOR CHAMPIONSHIP AEON CREDIT MALAYSIA SUPERBIKE CHAMPIONSHIP CYCLING OPEN TRACK DAY SEPANG 1000KM ENDURANCE RAC",
+      "button": false
+    },
+    {
+      "title": "EVENTS @ SIC PETRONAS GRAND PRIX OF MALAYSIA 2026 MALAYSIA TOURING CAR CHAMPIONSHIP 2026 (MTCC) FIM MINIGP MALAYSIA SERIES & SIC OHVALE JUNIOR CHAMPIONSHIP AEON CREDIT MALAYSIA SUPERBIKE CHAMPIONSHIP CYCLING OPEN TRACK DAY SEPANG 1000KM ENDURANCE RAC",
+      "button": false
+    },
+    {
+      "title": "EVENTS @ SIC PETRONAS GRAND PRIX OF MALAYSIA 2026 MALAYSIA TOURING CAR CHAMPIONSHIP 2026 (MTCC) FIM MINIGP MALAYSIA SERIES & SIC OHVALE JUNIOR CHAMPIONSHIP AEON CREDIT MALAYSIA SUPERBIKE CHAMPIONSHIP CYCLING OPEN TRACK DAY SEPANG 1000KM ENDURANCE RAC",
+      "button": false
+    },
+    {
+      "title": "EVENTS @ SIC PETRONAS GRAND PRIX OF MALAYSIA 2026 MALAYSIA TOURING CAR CHAMPIONSHIP 2026 (MTCC) FIM MINIGP MALAYSIA SERIES & SIC OHVALE JUNIOR CHAMPIONSHIP AEON CREDIT MALAYSIA SUPERBIKE CHAMPIONSHIP CYCLING OPEN TRACK DAY SEPANG 1000KM ENDURANCE RAC",
+      "button": false
+    },
+    {
+      "title": "PETRONAS GRAND PRIX OF MALAYSIA 2026 MALAYSIA TOURING CAR CHAMPIONSHIP 2026 (MTCC) FIM MINIGP MALAYSIA SERIES & SIC OHVALE JUNIOR CHAMPIONSHIP AEON CREDIT MALAYSIA SUPERBIKE CHAMPIONSHIP CYCLING OPEN TRACK DAY SEPANG 1000KM ENDURANCE RACE 2025",
+      "button": false
+    },
+    {
+      "title": "PETRONAS GRAND PRIX OF MALAYSIA 2026 MALAYSIA TOURING CAR CHAMPIONSHIP 2026 (MTCC) FIM MINIGP MALAYSIA SERIES & SIC OHVALE JUNIOR CHAMPIONSHIP AEON CREDIT MALAYSIA SUPERBIKE CHAMPIONSHIP CYCLING OPEN TRACK DAY SEPANG 1000KM ENDURANCE RACE 2025",
+      "button": false
+    },
+    {
+      "title": "PETRONAS GRAND PRIX OF MALAYSIA 2026 MALAYSIA TOURING CAR CHAMPIONSHIP 2026 (MTCC) FIM MINIGP MALAYSIA SERIES & SIC OHVALE JUNIOR CHAMPIONSHIP AEON CREDIT MALAYSIA SUPERBIKE CHAMPIONSHIP CYCLING OPEN TRACK DAY SEPANG 1000KM ENDURANCE RACE 2025",
+      "button": false
+    },
+    {
+      "title": "PETRONAS GRAND PRIX OF MALAYSIA 2026",
+      "button": false
+    },
+    {
+      "title": "PETRONAS GRAND PRIX OF MALAYSIA 2026",
+      "button": false
+    },
+    {
+      "title": "PETRONAS GRAND PRIX OF MALAYSIA 2026",
+      "button": false
+    },
+    {
+      "title": "PETRONAS GRAND PRIX OF MALAYSIA 2026",
+      "button": false
+    },
+    {
+      "title": "PETRONAS GRAND PRIX OF MALAYSIA 2026",
+      "button": false
+    },
+    {
+      "title": "SEPANG 1000KM ENDURANCE RACE 2025",
+      "button": false
+    },
+    {
+      "title": "SEPANG 1000KM ENDURANCE RACE 2025",
+      "button": false
+    },
+    {
+      "title": "SEPANG 1000KM ENDURANCE RACE 2025",
+      "button": false
+    },
+    {
+      "title": "SEPANG 1000KM ENDURANCE RACE 2025",
+      "button": false
+    },
+    {
+      "title": "SEPANG 1000KM ENDURANCE RACE 2025",
+      "button": false
+    },
+    {
+      "title": "Explore Overview Facilities Track Rental Container Hub Safety Measures Facilities Welcome Center Perdana Suite Paddock Chalet Paddock Club Support Paddock (North) Support Paddock (South) Corporate Suites Roof Top Helipad Media Centre Mall Area Racing",
+      "button": false
+    },
+    {
+      "title": "Overview Facilities Track Rental Container Hub Safety Measures Facilities Welcome Center Perdana Suite Paddock Chalet Paddock Club Support Paddock (North) Support Paddock (South) Corporate Suites Roof Top Helipad Media Centre Mall Area Racing Circuit",
+      "button": false
+    },
+    {
+      "title": "Overview Facilities Track Rental Container Hub Safety Measures Facilities Welcome Center Perdana Suite Paddock Chalet Paddock Club Support Paddock (North) Support Paddock (South) Corporate Suites Roof Top Helipad Media Centre Mall Area Racing Circuit",
+      "button": false
+    },
+    {
+      "title": "Racing Circuits Driving Experience Centre Driving Experience Centre SIC Motorsport Park Sepang International Kart Circuit",
+      "button": false
+    },
+    {
+      "title": "Racing Circuits Driving Experience Centre Driving Experience Centre SIC Motorsport Park Sepang International Kart Circuit",
+      "button": false
+    },
+    {
+      "title": "Racing Circuits Driving Experience Centre Driving Experience Centre SIC Motorsport Park Sepang International Kart Circuit",
+      "button": false
+    },
+    {
+      "title": "Racing Circuits Driving Experience Centre Driving Experience Centre SIC Motorsport Park Sepang International Kart Circuit",
+      "button": false
+    },
+    {
+      "title": ".background-image-6a6710045132e {background-image: url(https://www.sepangcircuit.com/media/wysiwyg/explore-menu-img1.jpg);}",
+      "button": false
+    },
+    {
+      "title": ".background-image-6a6710045173a {background-image: url(https://www.sepangcircuit.com/media/wysiwyg/explore-menu-img1.jpg);}",
+      "button": false
+    },
+    {
+      "title": ".background-image-6a6710045133d {background-image: url(https://www.sepangcircuit.com/media/wysiwyg/explore-menu-img2.jpg);}",
+      "button": false
+    },
+    {
+      "title": ".background-image-6a67100451743 {background-image: url(https://www.sepangcircuit.com/media/wysiwyg/explore-menu-img2.jpg);}",
+      "button": false
+    },
+    {
+      "title": ".background-image-6a67100451342 {background-image: url(https://www.sepangcircuit.com/media/.renditions/wysiwyg/DEC-size_v2.jpg);}",
+      "button": false
+    },
+    {
+      "title": ".background-image-6a67100451747 {background-image: url(https://www.sepangcircuit.com/media/.renditions/wysiwyg/DEC-size_v2.jpg);}",
+      "button": false
+    },
+    {
+      "title": "SIC Motorsport Park Sepang International Kart Circuit",
+      "button": false
+    },
+    {
+      "title": "SIC Motorsport Park Sepang International Kart Circuit",
+      "button": false
+    },
+    {
+      "title": ".background-image-6a67100451348 {background-image: url(https://www.sepangcircuit.com/media/wysiwyg/explore-menu-img3.jpg);}",
+      "button": false
+    },
+    {
+      "title": ".background-image-6a6710045174d {background-image: url(https://www.sepangcircuit.com/media/wysiwyg/explore-menu-img3.jpg);}",
+      "button": false
+    },
+    {
+      "title": "Sepang International Kart Circuit",
+      "button": false
+    },
+    {
+      "title": "Sepang International Kart Circuit",
+      "button": false
+    },
+    {
+      "title": "Sepang International Kart Circuit",
+      "button": false
+    },
+    {
+      "title": "Sepang International Kart Circuit",
+      "button": false
+    },
+    {
+      "title": "Sepang International Kart Circuit",
+      "button": false
+    },
+    {
+      "title": "Sepang International Kart Circuit",
+      "button": false
+    },
+    {
+      "title": "Sepang International Kart Circuit",
+      "button": false
+    },
+    {
+      "title": "Sepang International Kart Circuit",
+      "button": false
+    },
+    {
+      "title": ".background-image-6a6710045134c {background-image: url(https://www.sepangcircuit.com/media/wysiwyg/explore-menu-img4.jpg);}",
+      "button": false
+    },
+    {
+      "title": ".background-image-6a67100451751 {background-image: url(https://www.sepangcircuit.com/media/wysiwyg/explore-menu-img4.jpg);}",
+      "button": false
+    },
+    {
+      "title": "TICKETING PETRONAS GRAND PRIX OF MALAYSIA 2026 Buy Ticket MALAYSIA TOURING CAR CHAMPIONSHIP 2026 Buy Ticket SEPANG 1000KM ENDURANCE RACE 2026 Buy Ticket CIRCUIT TOUR 2026 Buy Ticket CAR OPEN TRACK DAY 2026 Buy Ticket CYCLING OPEN TRACK DAY 2026 Buy T",
+      "button": true
+    },
+    {
+      "title": "TICKETING PETRONAS GRAND PRIX OF MALAYSIA 2026 Buy Ticket MALAYSIA TOURING CAR CHAMPIONSHIP 2026 Buy Ticket SEPANG 1000KM ENDURANCE RACE 2026 Buy Ticket CIRCUIT TOUR 2026 Buy Ticket CAR OPEN TRACK DAY 2026 Buy Ticket CYCLING OPEN TRACK DAY 2026 Buy T",
+      "button": true
+    },
+    {
+      "title": "TICKETING PETRONAS GRAND PRIX OF MALAYSIA 2026 Buy Ticket MALAYSIA TOURING CAR CHAMPIONSHIP 2026 Buy Ticket SEPANG 1000KM ENDURANCE RACE 2026 Buy Ticket CIRCUIT TOUR 2026 Buy Ticket CAR OPEN TRACK DAY 2026 Buy Ticket CYCLING OPEN TRACK DAY 2026 Buy T",
+      "button": true
+    },
+    {
+      "title": "TICKETING PETRONAS GRAND PRIX OF MALAYSIA 2026 Buy Ticket MALAYSIA TOURING CAR CHAMPIONSHIP 2026 Buy Ticket SEPANG 1000KM ENDURANCE RACE 2026 Buy Ticket CIRCUIT TOUR 2026 Buy Ticket CAR OPEN TRACK DAY 2026 Buy Ticket CYCLING OPEN TRACK DAY 2026 Buy T",
+      "button": true
+    },
+    {
+      "title": "TICKETING PETRONAS GRAND PRIX OF MALAYSIA 2026 Buy Ticket MALAYSIA TOURING CAR CHAMPIONSHIP 2026 Buy Ticket SEPANG 1000KM ENDURANCE RACE 2026 Buy Ticket CIRCUIT TOUR 2026 Buy Ticket CAR OPEN TRACK DAY 2026 Buy Ticket CYCLING OPEN TRACK DAY 2026 Buy T",
+      "button": true
+    },
+    {
+      "title": "TICKETING PETRONAS GRAND PRIX OF MALAYSIA 2026 Buy Ticket MALAYSIA TOURING CAR CHAMPIONSHIP 2026 Buy Ticket SEPANG 1000KM ENDURANCE RACE 2026 Buy Ticket CIRCUIT TOUR 2026 Buy Ticket CAR OPEN TRACK DAY 2026 Buy Ticket CYCLING OPEN TRACK DAY 2026 Buy T",
+      "button": true
+    },
+    {
+      "title": "window.authenticationPopup = {\"autocomplete\":\"off\",\"customerRegisterUrl\":\"https:\\/\\/www.sepangcircuit.com\\/customer\\/account\\/create\\/\",\"customerForgotPasswordUrl\":\"https:\\/\\/www.sepangcircuit.com\\/customer\\/account\\/forgotpassword\\/\",\"baseUrl\":\"http",
+      "button": false
+    },
+    {
+      "title": "{\n            \"#authenticationPopup\": {\n                \"Magento_Ui/js/core/app\": {\"components\":{\"authenticationPopup\":{\"component\":\"Magento_Customer\\/js\\/view\\/authentication-popup\",\"children\":{\"messages\":{\"component\":\"Magento_Ui\\/js\\/view\\/messages",
+      "button": false
+    },
+    {
+      "title": "{\n        \"*\": {\n            \"Magento_Customer/js/section-config\": {\n                \"sections\": {\"stores\\/store\\/switch\":[\"*\"],\"stores\\/store\\/switchrequest\":[\"*\"],\"directory\\/currency\\/switch\":[\"*\"],\"*\":[\"messages\"],\"customer\\/account\\/logout\":[\"*\"",
+      "button": false
+    },
+    {
+      "title": "{\n        \"*\": {\n            \"Magento_Customer/js/customer-data\": {\n                \"sectionLoadUrl\": \"https\\u003A\\u002F\\u002Fwww.sepangcircuit.com\\u002Fcustomer\\u002Fsection\\u002Fload\\u002F\",\n                \"expirableSectionLifetime\": 60,\n         ",
+      "button": false
+    },
+    {
+      "title": "{\n        \"body\": {\n            \"pageCache\": {\"url\":\"https:\\/\\/www.sepangcircuit.com\\/page_cache\\/block\\/render\\/page_id\\/51\\/\",\"handles\":[\"default\",\"cms_page_view\",\"cms_page_view_id_ticketing\"],\"originalRequest\":{\"route\":\"cms\",\"controller\":\"page\",\"a",
+      "button": false
+    },
+    {
+      "title": "require([\"jquery\"], function ($) {\n        $(document).ready(function () {\n            $(\"button.tocart\").click(function () {\n                var customurl = \"https://www.sepangcircuit.com/mpgoogletagmanager/event/index\";\n                $.ajax({\n   ",
+      "button": false
+    },
+    {
+      "title": ".background-image-6a67100456538 {background-image: url(https://www.sepangcircuit.com/media/.renditions/wysiwyg/hero-banner_2.jpg);}",
+      "button": false
+    },
+    {
+      "title": "PETRONAS GRAND PRIX OF MALAYSIA 2026 Buy Ticket MALAYSIA TOURING CAR CHAMPIONSHIP 2026 Buy Ticket SEPANG 1000KM ENDURANCE RACE 2026 Buy Ticket CIRCUIT TOUR 2026 Buy Ticket CAR OPEN TRACK DAY 2026 Buy Ticket CYCLING OPEN TRACK DAY 2026 Buy Ticket PORT",
+      "button": true
+    },
+    {
+      "title": "PETRONAS GRAND PRIX OF MALAYSIA 2026 Buy Ticket MALAYSIA TOURING CAR CHAMPIONSHIP 2026 Buy Ticket SEPANG 1000KM ENDURANCE RACE 2026 Buy Ticket CIRCUIT TOUR 2026 Buy Ticket CAR OPEN TRACK DAY 2026 Buy Ticket CYCLING OPEN TRACK DAY 2026 Buy Ticket PORT",
+      "button": true
+    },
+    {
+      "title": "PETRONAS GRAND PRIX OF MALAYSIA 2026 Buy Ticket MALAYSIA TOURING CAR CHAMPIONSHIP 2026 Buy Ticket SEPANG 1000KM ENDURANCE RACE 2026 Buy Ticket CIRCUIT TOUR 2026 Buy Ticket CAR OPEN TRACK DAY 2026 Buy Ticket CYCLING OPEN TRACK DAY 2026 Buy Ticket PORT",
+      "button": true
+    },
+    {
+      "title": "PETRONAS GRAND PRIX OF MALAYSIA 2026 Buy Ticket MALAYSIA TOURING CAR CHAMPIONSHIP 2026 Buy Ticket SEPANG 1000KM ENDURANCE RACE 2026 Buy Ticket CIRCUIT TOUR 2026 Buy Ticket CAR OPEN TRACK DAY 2026 Buy Ticket CYCLING OPEN TRACK DAY 2026 Buy Ticket PORT",
+      "button": true
+    },
+    {
+      "title": "PETRONAS GRAND PRIX OF MALAYSIA 2026 Buy Ticket MALAYSIA TOURING CAR CHAMPIONSHIP 2026 Buy Ticket SEPANG 1000KM ENDURANCE RACE 2026 Buy Ticket CIRCUIT TOUR 2026 Buy Ticket CAR OPEN TRACK DAY 2026 Buy Ticket CYCLING OPEN TRACK DAY 2026 Buy Ticket PORT",
+      "button": true
+    },
+    {
+      "title": "PETRONAS GRAND PRIX OF MALAYSIA 2026 Buy Ticket",
+      "button": true
+    },
+    {
+      "title": "PETRONAS GRAND PRIX OF MALAYSIA 2026 Buy Ticket",
+      "button": true
+    },
+    {
+      "title": "PETRONAS GRAND PRIX OF MALAYSIA 2026 Buy Ticket",
+      "button": true
+    },
+    {
+      "title": "PETRONAS GRAND PRIX OF MALAYSIA 2026 Buy Ticket",
+      "button": true
+    },
+    {
+      "title": "PETRONAS GRAND PRIX OF MALAYSIA 2026 Buy Ticket",
+      "button": true
+    },
+    {
+      "title": "PETRONAS GRAND PRIX OF MALAYSIA 2026 Buy Ticket",
+      "button": true
+    },
+    {
+      "title": "PETRONAS GRAND PRIX OF MALAYSIA 2026",
+      "button": false
+    },
+    {
+      "title": "PETRONAS GRAND PRIX OF MALAYSIA 2026",
+      "button": false
+    },
+    {
+      "title": "PETRONAS GRAND PRIX OF MALAYSIA 2026",
+      "button": false
+    },
+    {
+      "title": "PETRONAS GRAND PRIX OF MALAYSIA 2026",
+      "button": false
+    },
+    {
+      "title": "PETRONAS GRAND PRIX OF MALAYSIA 2026",
+      "button": false
+    },
+    {
+      "title": ".background-image-6a67100456547 {background-image: url(https://www.sepangcircuit.com/media/wysiwyg/purchase-tickets_MotoGP-1.jpg);}",
+      "button": false
+    },
+    {
+      "title": ".background-image-6a6710045654b {background-image: url(https://www.sepangcircuit.com/media/wysiwyg/purchase-tickets_MCS-1.jpg);}",
+      "button": false
+    },
+    {
+      "title": "SEPANG 1000KM ENDURANCE RACE 2026 Buy Ticket",
+      "button": true
+    },
+    {
+      "title": "SEPANG 1000KM ENDURANCE RACE 2026 Buy Ticket",
+      "button": true
+    },
+    {
+      "title": "SEPANG 1000KM ENDURANCE RACE 2026 Buy Ticket",
+      "button": true
+    },
+    {
+      "title": "SEPANG 1000KM ENDURANCE RACE 2026 Buy Ticket",
+      "button": true
+    },
+    {
+      "title": "SEPANG 1000KM ENDURANCE RACE 2026 Buy Ticket",
+      "button": true
+    },
+    {
+      "title": "SEPANG 1000KM ENDURANCE RACE 2026 Buy Ticket",
+      "button": true
+    },
+    {
+      "title": "SEPANG 1000KM ENDURANCE RACE 2026",
+      "button": false
+    },
+    {
+      "title": "SEPANG 1000KM ENDURANCE RACE 2026",
+      "button": false
+    },
+    {
+      "title": "SEPANG 1000KM ENDURANCE RACE 2026",
+      "button": false
+    },
+    {
+      "title": "SEPANG 1000KM ENDURANCE RACE 2026",
+      "button": false
+    },
+    {
+      "title": "SEPANG 1000KM ENDURANCE RACE 2026",
+      "button": false
+    },
+    {
+      "title": ".background-image-6a67100456554 {background-image: url(https://www.sepangcircuit.com/media/wysiwyg/purchase-tickets_S1k-1.jpg);}",
+      "button": false
+    },
+    {
+      "title": ".background-image-6a6710045655f {background-image: url(https://www.sepangcircuit.com/media/wysiwyg/purchase-tickets_Tircuit-Tour-1.jpg);}",
+      "button": false
+    },
+    {
+      "title": ".background-image-6a67100456566 {background-image: url(https://www.sepangcircuit.com/media/wysiwyg/purchase-tickets_Car-open-track-day-1.jpg);}",
+      "button": false
+    },
+    {
+      "title": ".background-image-6a6710045656d {background-image: url(https://www.sepangcircuit.com/media/wysiwyg/purchase-tickets_Cycling-open-track-day-1.jpg);}",
+      "button": false
+    },
+    {
+      "title": ".background-image-6a67100456572 {background-image: url(https://www.sepangcircuit.com/media/wysiwyg/purchase-tickets_PEV-open-track-day-optimized.jpg);}",
+      "button": false
+    },
+    {
+      "title": ".background-image-6a67100456577 {background-image: url(https://www.sepangcircuit.com/media/wysiwyg/purchase-tickets_STO-1.jpg);}",
+      "button": false
+    },
+    {
+      "title": "Stay Connected. Follow Us! CIRCUIT ADDRESS PETRONAS Sepang International Circuit Jalan Pekeliling, 64000 KLIA,Selangor Darul Ehsan, Malaysia. Enquiry & Ticket Chat With Us [email\u00a0protected] NAVIGATE About Career with Us Media Merchandise Ticketing CO",
+      "button": false
+    },
+    {
+      "title": "CIRCUIT ADDRESS PETRONAS Sepang International Circuit Jalan Pekeliling, 64000 KLIA,Selangor Darul Ehsan, Malaysia. Enquiry & Ticket Chat With Us [email\u00a0protected] NAVIGATE About Career with Us Media Merchandise Ticketing CONTACT Contact Details Enqui",
+      "button": false
+    },
+    {
+      "title": "CIRCUIT ADDRESS PETRONAS Sepang International Circuit Jalan Pekeliling, 64000 KLIA,Selangor Darul Ehsan, Malaysia. Enquiry & Ticket Chat With Us [email\u00a0protected] NAVIGATE About Career with Us Media Merchandise Ticketing CONTACT Contact Details Enqui",
+      "button": false
+    },
+    {
+      "title": "CIRCUIT ADDRESS PETRONAS Sepang International Circuit Jalan Pekeliling, 64000 KLIA,Selangor Darul Ehsan, Malaysia. Enquiry & Ticket Chat With Us [email\u00a0protected] NAVIGATE About Career with Us Media Merchandise Ticketing CONTACT Contact Details Enqui",
+      "button": false
+    },
+    {
+      "title": "CIRCUIT ADDRESS PETRONAS Sepang International Circuit Jalan Pekeliling, 64000 KLIA,Selangor Darul Ehsan, Malaysia. Enquiry & Ticket Chat With Us [email\u00a0protected] NAVIGATE About Career with Us Media Merchandise Ticketing CONTACT Contact Details Enqui",
+      "button": false
+    },
+    {
+      "title": "CIRCUIT ADDRESS PETRONAS Sepang International Circuit Jalan Pekeliling, 64000 KLIA,Selangor Darul Ehsan, Malaysia. Enquiry & Ticket Chat With Us [email\u00a0protected]",
+      "button": false
+    },
+    {
+      "title": "CIRCUIT ADDRESS PETRONAS Sepang International Circuit Jalan Pekeliling, 64000 KLIA,Selangor Darul Ehsan, Malaysia. Enquiry & Ticket Chat With Us [email\u00a0protected]",
+      "button": false
+    },
+    {
+      "title": "CIRCUIT ADDRESS PETRONAS Sepang International Circuit Jalan Pekeliling, 64000 KLIA,Selangor Darul Ehsan, Malaysia. Enquiry & Ticket Chat With Us [email\u00a0protected]",
+      "button": false
+    },
+    {
+      "title": "PETRONAS Sepang International Circuit Jalan Pekeliling, 64000 KLIA,Selangor Darul Ehsan, Malaysia. Enquiry & Ticket Chat With Us [email\u00a0protected]",
+      "button": false
+    },
+    {
+      "title": "PETRONAS Sepang International Circuit Jalan Pekeliling, 64000 KLIA,Selangor Darul Ehsan, Malaysia.",
+      "button": false
+    },
+    {
+      "title": "PETRONAS Sepang International Circuit",
+      "button": false
+    },
+    {
+      "title": "Copyright \u00a9 2026 Sepang International Circuit Sdn. Bhd. (457149-T). All rights reserved.",
+      "button": false
+    },
+    {
+      "title": "Copyright \u00a9 2026 Sepang International Circuit Sdn. Bhd. (457149-T). All rights reserved.",
+      "button": false
+    },
+    {
+      "title": "Copyright \u00a9 2026 Sepang International Circuit Sdn. Bhd. (457149-T). All rights reserved.",
+      "button": false
+    },
+    {
+      "title": "Copyright \u00a9 2026 Sepang International Circuit Sdn. Bhd. (457149-T). All rights reserved.",
+      "button": false
+    },
+    {
+      "title": "Copyright \u00a9 2026 Sepang International Circuit Sdn. Bhd. (457149-T). All rights reserved.",
+      "button": false
+    },
+    {
+      "title": "Copyright \u00a9 2026 Sepang International Circuit Sdn. Bhd. (457149-T). All rights reserved.",
+      "button": false
+    },
+    {
+      "title": "Copyright \u00a9 2026 Sepang International Circuit Sdn. Bhd. (457149-T). All rights reserved.",
+      "button": false
+    },
+    {
+      "title": "Copyright \u00a9 2026 Sepang International Circuit Sdn. Bhd. (457149-T). All rights reserved.",
+      "button": false
+    },
+    {
+      "title": "{\n            \"*\": {\n                \"Magento_Ui/js/core/app\": {\n                    \"components\": {\n                        \"storage-manager\": {\n                            \"component\": \"Magento_Catalog/js/storage-manager\",\n                         ",
+      "button": false
+    }
+  ]
+}
