@@ -1,37 +1,49 @@
 import requests
 from bs4 import BeautifulSoup
 
+F1_KEYWORDS = [
+    "formula 1",
+    "formula one",
+    "f1",
+    "grand prix",
+    "petronas grand prix",
+    "malaysian grand prix"
+]
+
 
 def check(site):
 
-    html=requests.get(
+    html = requests.get(
         site["url"],
-        headers={
-            "User-Agent":"Mozilla/5.0"
-        },
+        headers={"User-Agent": "Mozilla/5.0"},
         timeout=30
     ).text
 
-    soup=BeautifulSoup(html,"lxml")
+    soup = BeautifulSoup(html, "lxml")
 
-    cards=[]
+    events = []
 
-    for card in soup.find_all():
+    # Only inspect likely event cards
+    for card in soup.find_all(["div", "article", "section", "li"]):
 
-        text=card.get_text(" ",strip=True)
+        text = card.get_text(" ", strip=True)
 
         if not text:
             continue
 
-        lower=text.lower()
+        lower = text.lower()
 
-        if any(k in lower for k in site["keywords"]):
+        # Skip anything that isn't Formula 1
+        if not any(keyword in lower for keyword in F1_KEYWORDS):
+            continue
 
-            button=site["button"].lower() in lower
+        # Only alert if THIS card contains Buy Ticket
+        if "buy ticket" not in lower:
+            continue
 
-            cards.append({
-                "title":text[:250],
-                "button":button
-            })
+        events.append({
+            "title": text[:300],
+            "button": True
+        })
 
-    return cards
+    return events
