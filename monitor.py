@@ -2,7 +2,7 @@ from config import SITES
 from telegram import send
 from state import load,save
 
-from monitors.sepangs import check as check_sepang
+from monitors.sepang import check as check_sepang
 from monitors.f1tickets import check as check_f1
 
 CHECKERS={
