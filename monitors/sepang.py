@@ -2,11 +2,11 @@ import requests
 from bs4 import BeautifulSoup
 
 F1_KEYWORDS = [
-    "formula 1",
-    "formula one",
     "f1",
-    "grand prix",
-    "petronas"
+    "formula 1",
+    "formula1",
+    "petronas",
+    "formula 1 gulf air bahrain grand prix in malaysia 2026"
 ]
 
 
@@ -34,7 +34,8 @@ def check(site):
             continue
 
         href = a.get("href", "")
-        bookable = href not in ("#", "", None)
+        # href points to an overview page until tickets actually go on sale
+        bookable = href not in ("#", "", None) and "overview" not in href
 
         events.append({
             "title": title,
