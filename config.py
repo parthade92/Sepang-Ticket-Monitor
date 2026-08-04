@@ -11,13 +11,11 @@ SITES = {
     },
 
     "f1tickets": {
-        "url": "https://tickets.formula1.com/",
+        "url": "https://tickets.formula1.com/en",
         "button": "Book Now",
         "keywords": [
-            "malaysia",
-            "sepang",
             "bahrain",
-            "formula 1"
+            "2026"
         ]
     }
 }

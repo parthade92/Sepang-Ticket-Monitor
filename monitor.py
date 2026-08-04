@@ -1,39 +1,46 @@
+import textwrap
+
 from config import SITES
 from telegram import send
-from state import load,save
+from state import load, save
 
 from monitors.sepang import check as check_sepang
 from monitors.f1tickets import check as check_f1
 
-CHECKERS={
-    "sepang":check_sepang,
-    "f1tickets":check_f1
+CHECKERS = {
+    "sepang": check_sepang,
+    "f1tickets": check_f1
 }
 
 
 def main():
 
-    state=load()
+    state = load()
 
-    changed=False
+    changed = False
 
-    for name,checker in CHECKERS.items():
+    for name, checker in CHECKERS.items():
 
-        current=checker(SITES[name])
+        try:
+            current = checker(SITES[name])
+        except Exception as e:
+            print(f"[{name}] scrape failed: {e}")
+            continue
 
-        previous=state.get(name,[])
+        previous = state.get(name, [])
 
-        if current!=previous:
+        if current != previous:
 
-            changed=True
+            changed = True
 
-            state[name]=current
+            state[name] = current
 
             for event in current:
 
                 if event["button"]:
 
-                    send(
+                    try:
+                        send(
 f"""🏁 Formula 1 Ticket Update
 
 Website:
@@ -42,16 +49,17 @@ Website:
 Button detected:
 {SITES[name]["button"]}
 
-{textwrap.shorten(event["title"],300)}
+{textwrap.shorten(event["title"], 300)}
 
 {SITES[name]["url"]}
 """
-                    )
+                        )
+                    except Exception as e:
+                        print(f"[{name}] telegram failed: {e}")
 
     if changed:
         save(state)
 
 
-if __name__=="__main__":
-    import textwrap
+if __name__ == "__main__":
     main()

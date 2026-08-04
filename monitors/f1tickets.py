@@ -4,34 +4,24 @@ from bs4 import BeautifulSoup
 
 def check(site):
 
-    html=requests.get(
+    html = requests.get(
         site["url"],
-        headers={
-            "User-Agent":"Mozilla/5.0"
-        },
+        headers={"User-Agent": "Mozilla/5.0"},
         timeout=30
     ).text
 
-    soup=BeautifulSoup(html,"lxml")
+    soup = BeautifulSoup(html, "lxml")
 
-    cards=[]
+    for card in soup.find_all("div", class_="f1-cc"):
 
-    for card in soup.find_all():
+        text = card.get_text(" ", strip=True)
+        lower = text.lower()
 
-        text=card.get_text(" ",strip=True)
-
-        if not text:
+        if "bahrain" not in lower or "2026" not in lower:
             continue
 
-        lower=text.lower()
+        button = site["button"].lower() in lower
 
-        if any(k in lower for k in site["keywords"]):
+        return [{"title": text[:300], "button": button}]
 
-            button=site["button"].lower() in lower
-
-            cards.append({
-                "title":text[:250],
-                "button":button
-            })
-
-    return cards
+    return [{"title": "Bahrain GP 2026 not found", "button": False}]
