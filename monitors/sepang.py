@@ -5,9 +5,8 @@ F1_KEYWORDS = [
     "formula 1",
     "formula one",
     "f1",
-    "formula",
-    "formula1",
-    "grand prix"
+    "grand prix",
+    "petronas"
 ]
 
 
@@ -23,27 +22,23 @@ def check(site):
 
     events = []
 
-    # Only inspect likely event cards
-    for card in soup.find_all(["div", "article", "section", "li"]):
+    for a in soup.find_all("a"):
 
-        text = card.get_text(" ", strip=True)
-
-        if not text:
+        btn = a.find("button")
+        if not btn or site["button"].lower() not in btn.get_text(strip=True).lower():
             continue
 
-        lower = text.lower()
+        title = a.get_text(" ", strip=True).replace(btn.get_text(strip=True), "").strip()
 
-        # Skip anything that isn't Formula 1
-        if not any(keyword in lower for keyword in F1_KEYWORDS):
+        if not any(kw in title.lower() for kw in F1_KEYWORDS):
             continue
 
-        # Only alert if THIS card contains Buy Ticket
-        if "buy ticket" not in lower:
-            continue
+        href = a.get("href", "")
+        bookable = href not in ("#", "", None)
 
         events.append({
-            "title": text[:300],
-            "button": True
+            "title": title,
+            "button": bookable
         })
 
     return events
