@@ -11,10 +11,11 @@ Monitors F1 ticket availability for the **2026 Bahrain Grand Prix in Malaysia (S
 
 ## How it works
 
-1. GitHub Actions runs `monitor.py` every 5 minutes
+1. GitHub Actions runs `monitor.py` every 5 minutes (only one run at a time — concurrent runs are cancelled)
 2. Each scraper fetches its target page and returns the relevant ticket card
 3. If the result differs from the last saved state, a Telegram message is sent
 4. Updated state is committed back to `state.json`
+5. Each job has a 10-minute timeout to prevent stuck runs
 
 ## Setup
 
