@@ -17,5 +17,11 @@ SITES = {
             "bahrain",
             "2026"
         ]
+    },
+
+    "malaysiaticketsgp": {
+        "url": "https://www.malaysiaticketsgp.com/en/tickets",
+        "button": "buy or book",
+        "keywords": []
     }
 }
