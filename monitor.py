@@ -6,10 +6,12 @@ from state import load, save
 
 from monitors.sepang import check as check_sepang
 from monitors.f1tickets import check as check_f1
+from monitors.malaysiaticketsgp import check as check_malaysia
 
 CHECKERS = {
     "sepang": check_sepang,
-    "f1tickets": check_f1
+    "f1tickets": check_f1,
+    "malaysiaticketsgp": check_malaysia
 }
 
 

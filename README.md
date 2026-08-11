@@ -8,6 +8,7 @@ Monitors F1 ticket availability for the **2026 Bahrain Grand Prix in Malaysia (S
 |------|-----|---------|
 | Sepang Circuit | `sepangcircuit.com/ticketing` | Any F1 card with a "Buy Ticket" button |
 | F1 Ticket Store | `tickets.formula1.com/en` | Bahrain GP 2026 card changes to "Book Now" |
+| Malaysia GP | `malaysiaticketsgp.com/en/tickets` | Any "buy" or "book" button appears on the page |
 
 ## How it works
 
@@ -42,8 +43,9 @@ config.py           # Site URLs, button text, and keywords per site
 state.py            # Load/save state.json (atomic writes)
 telegram.py         # Telegram Bot API wrapper
 monitors/
-  sepang.py         # Scraper for sepangcircuit.com
-  f1tickets.py      # Scraper for tickets.formula1.com (Bahrain GP 2026 only)
+  sepang.py             # Scraper for sepangcircuit.com
+  f1tickets.py          # Scraper for tickets.formula1.com (Bahrain GP 2026 only)
+  malaysiaticketsgp.py  # Scraper for malaysiaticketsgp.com (buy/book button detection)
 .github/
   workflows/
     monitor.yml     # GitHub Actions cron workflow
