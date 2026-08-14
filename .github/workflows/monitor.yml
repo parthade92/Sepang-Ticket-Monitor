@@ -3,15 +3,6 @@ name: Sepang Ticket Monitor
 on:
   workflow_dispatch:
 
-  push:
-    branches:
-      - main
-    paths-ignore:
-      - "state.json"
-
-  schedule:
-    - cron: "*/5 * * * *"
-
 concurrency:
   group: monitor
   cancel-in-progress: true
